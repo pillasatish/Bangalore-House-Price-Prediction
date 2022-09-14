@@ -1,2 +1,1 @@
-# Projects
-Data Science Project
+# Banglore House Price Prediction Using Linear Regression and Decision Tree
